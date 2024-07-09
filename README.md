@@ -43,7 +43,7 @@ python domain_inspector.py URL_or_IP
 
 ## Example
 
-python domain_inspector.py example.com
+python DomainInspector.py example.com
 
 
 ## Development
