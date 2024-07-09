@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-python domain_inspector.py URL_or_IP
+python DomainInspector.py URL_or_IP
 ![DorkHunter image](image.png)
 
 
