@@ -1,0 +1,6 @@
+argparse
+python-whois
+dnspython
+requests
+geoip2
+pytz
